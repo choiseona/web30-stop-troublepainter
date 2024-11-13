@@ -25,7 +25,7 @@ const App = ({ children }: AppChildrenProps) => {
     <AppProvider>
       {children}
       {/* 모달을 위한 포털 */}
-      {/* <div id="modal-root" />  */}
+      {/* <div id="modal-root" /> .  */}
     </AppProvider>
   );
 };
